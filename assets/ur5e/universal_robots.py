@@ -21,11 +21,7 @@ from isaaclab.utils.assets import ISAACLAB_NUCLEUS_DIR
 # Configuration
 ##
 
-#### !!!!! THIS IS NOT THE ACTUAL SCRIPT THAT IS BEING CALLED !!!!! ####
-#### !! The called one is stored in the local folder of IsaacLab !! ####
-
-
-################## My Robots ################ 
+################## My Robots ################
 
 UR5e_CFG = ArticulationCfg(    # Without Gripper !
     spawn=sim_utils.UsdFileCfg(
