@@ -1,6 +1,4 @@
 
-############## THIS IS AN EXAMPLE #######################
-
 conda activate isaacenv
 cd 
 cd IsaacLab
@@ -21,5 +19,16 @@ cd IsaacLab
   --joint-damping 0.0 \
   --joint-target-type none
   
+## Good guide on assemblying robot + gripper in IsaacSim
+  https://lycheeai-hub.com/isaac-lab/projects/isaac-lab-reach-task-ur10-with-gripper
 
-#### COLORS ARE NOT DISPLAYED (IDK WHY)
+## Check Instanceability of created USD
+conda activate isaacenv
+cd
+cd IsaacLab
+./isaaclab.sh  -p scripts/tools/check_instanceable.py /home/user/Documents/RL_Arm/assets/ur5e_robotiq2f140.usd -n 2048 --headless --physics
+
+-- >
+>>> Cloning time (cloner.clone) : 0.405691 seconds
+>>> Setup time (sim.reset) : 3.745746 seconds
+[#clones: 2048, physics: True] Asset: /home/user/Documents/RL_Arm/assets/ur5e_robotiq2f140.usd : 4.151499 seconds

@@ -38,7 +38,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/base_link.STL" />
+          filename="assets/contactile/gal2/meshes/base_link.STL" />
       </geometry>
       <material
         name="">
@@ -52,7 +52,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/base_link.STL" />
+          filename="assets/contactile/gal2/meshes/base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -78,7 +78,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/link1.STL" />
+          filename="assets/contactile/gal2/meshes/link1.STL" />
       </geometry>
       <material
         name="">
@@ -92,7 +92,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/link1.STL" />
+          filename="assets/contactile/gal2/meshes/link1.STL" />
       </geometry>
     </collision>
   </link>
@@ -136,7 +136,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/finger1.STL" />
+          filename="assets/contactile/gal2/meshes/finger1.STL" />
       </geometry>
       <material
         name="">
@@ -150,7 +150,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/finger1.STL" />
+          filename="assets/contactile/gal2/meshes/finger1.STL" />
       </geometry>
     </collision>
   </link>
@@ -198,7 +198,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/coupler1.STL" />
+          filename="assets/contactile/gal2/meshes/coupler1.STL" />
       </geometry>
       <material
         name="">
@@ -212,7 +212,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/coupler1.STL" />
+          filename="assets/contactile/gal2/meshes/coupler1.STL" />
       </geometry>
     </collision>
   </link>
@@ -260,7 +260,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/coupler2.STL" />
+          filename="assets/contactile/gal2/meshes/coupler2.STL" />
       </geometry>
       <material
         name="">
@@ -274,7 +274,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/coupler2.STL" />
+          filename="assets/contactile/gal2/meshes/coupler2.STL" />
       </geometry>
     </collision>
   </link>
@@ -322,7 +322,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/link2.STL" />
+          filename="assets/contactile/gal2/meshes/link2.STL" />
       </geometry>
       <material
         name="">
@@ -336,7 +336,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/link2.STL" />
+          filename="assets/contactile/gal2/meshes/link2.STL" />
       </geometry>
     </collision>
   </link>
@@ -384,7 +384,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/finger2.STL" />
+          filename="assets/contactile/gal2/meshes/finger2.STL" />
       </geometry>
       <material
         name="">
@@ -398,7 +398,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://gripper_gazebo_sim/meshes/finger2.STL" />
+          filename="assets/contactile/gal2/meshes/finger2.STL" />
       </geometry>
     </collision>
   </link>
