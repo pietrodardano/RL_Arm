@@ -1,0 +1,9 @@
+mujoco==3.4.0
+numpy==1.26.4
+matplotlib==3.10.8
+robosuite==1.5.2
+robosuite-models==1.0.0
+robot-descriptions==1.22.0
+mink==0.0.5
+einops==0.8.1
+dm_control==1.0.36
